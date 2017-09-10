@@ -1,1 +1,1 @@
-# Simple todo rest application writen in Kotlin + Spring + MongoDB
+# Simple todo rest application written in Kotlin + Spring + MongoDB
